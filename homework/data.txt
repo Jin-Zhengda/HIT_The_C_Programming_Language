@@ -1,0 +1,7 @@
+ID	UserName	Income	Expenses
+10001	Angela		40000		20000	
+10002	Alice		0		0	
+20001	Elsa		8000		14000	
+20002	Emily		6000		1500	
+30003	Hellen		10000		3000	
+40004	Jane		6500		2000	
